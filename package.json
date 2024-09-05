@@ -54,16 +54,16 @@
     "caniuse-lite": "1.0.30000989",
     "date-fns": "2.0.1",
     "enzyme": "^3.10.0",
-    "enzyme-adapter-react-16": "^1.14.0",
+    "enzyme-adapter-react-16": "^1.15.8",
     "eslint-utils": "1.4.2",
-    "jest-haste-map": "24.9.0",
+    "jest-haste-map": "25.2.0",
     "mixin-deep": "^2.0.1",
     "preact": "8.5.2",
     "preact-compat": "3.19.0",
     "prop-types": "^15.6.2",
     "react": "16.9.0",
     "react-dom": "16.9.0",
-    "styled-components": "^3.4.6"
+    "styled-components": "^4.0.0"
   },
   "scripts": {
     "build": "yarn webpack --mode=production && bin/graveyard",
